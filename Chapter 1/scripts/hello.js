@@ -1,1 +1,1 @@
-
+document.writeln("Hello World")
